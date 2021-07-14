@@ -6,4 +6,6 @@ echo "You chose: $CHOICE"
 if [ "$CHOICE" == "a" ]
 then
 echo "doing 'a'"
+else
+echo "doing nothing"
 fi
