@@ -11,6 +11,10 @@
 ### File Contents
 ```
 
+Change Permissions
+
+> $ chmod 700 script.txt
+
 ### Variables
 
 - Uppercase always
