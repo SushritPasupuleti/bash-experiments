@@ -41,4 +41,7 @@ NAME="Lawliet"
 if [ "$NAME" == "Lawliet" ]
 then
 echo "True"
+else
+echo "False"
+fi
 ```
