@@ -32,3 +32,13 @@ echo "Hi, ${NAME}"
 read -p "Enter Choice: " CHOICE
 echo "You chose: $CHOICE"
 ```
+
+### Conditional Statements
+
+```bash
+NAME="Lawliet"
+
+if [ $"NAME" == "Lawliet" ]
+then
+echo "True"
+```
