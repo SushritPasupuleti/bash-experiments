@@ -38,7 +38,7 @@ echo "You chose: $CHOICE"
 ```bash
 NAME="Lawliet"
 
-if [ $"NAME" == "Lawliet" ]
+if [ "$NAME" == "Lawliet" ]
 then
 echo "True"
 ```
