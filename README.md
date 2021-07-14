@@ -1,2 +1,3 @@
-# bash-experiments
- trying out bash scripting
+# Bash Experiments
+
+ Trying out bash scripting
