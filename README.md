@@ -25,3 +25,10 @@ Change Permissions
 NAME="Lawliet"
 echo "Hi, ${NAME}"
 ```
+
+### Inputs
+
+```bash
+read -p "Enter Choice: " CHOICE
+echo "You chose: $CHOICE"
+```
