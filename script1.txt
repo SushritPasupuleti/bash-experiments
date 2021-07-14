@@ -1,1 +1,4 @@
-̦̦̦̦̦̦̦̦̦
+#! /bin/bash
+
+read -p "Enter Choice: " CHOICE
+echo "You chose: $CHOICE"
