@@ -42,6 +42,7 @@ if [ "$NAME" == "Lawliet" ]
 then
 echo "True"
 elif [ "$NAME" == "Sushrit" ]
+then
 echo "Kinda True"
 else
 echo "False"
