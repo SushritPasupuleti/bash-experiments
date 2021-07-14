@@ -41,6 +41,8 @@ NAME="Lawliet"
 if [ "$NAME" == "Lawliet" ]
 then
 echo "True"
+elif [ "$NAME" == "Sushrit" ]
+echo "Kinda True"
 else
 echo "False"
 fi
