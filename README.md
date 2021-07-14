@@ -48,3 +48,14 @@ else
 echo "False"
 fi
 ```
+
+### Equality Operators
+
+```bash
+-lt
+-gt
+-ge
+-le
+-e
+-ne
+```
