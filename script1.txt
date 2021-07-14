@@ -2,3 +2,7 @@
 
 read -p "Enter Choice: " CHOICE
 echo "You chose: $CHOICE"
+
+if [ $"CHOICE" == "a" ]
+then
+echo "doing 'a'"
